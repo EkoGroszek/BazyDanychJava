@@ -1,4 +1,4 @@
-BazyDanychJava
-
-<center>Repo zawiera ćwiczenia z przedmiotu </center>
+#BazyDanychJava
+##Repo zawiera ćwiczenia z przedmiotu 
+```
 Budowanie nowoczesnych aplikacji bazodanowych 
